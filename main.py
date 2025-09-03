@@ -28,4 +28,5 @@ def draw_line(time):
             y += 5
 draw_line(10)
 screen = t.Screen()
+
 screen.exitonclick()
